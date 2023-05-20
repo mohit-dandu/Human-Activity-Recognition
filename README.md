@@ -47,7 +47,7 @@ To set up your local environment and get started with the project, you need to f
 
 
 ## Features
-* Support Vector Machines  (SVM) has  the  highest  accuracy of 97.8% compared to all others.
+* Support Vector Machines  (SVM) has  the  highest  accuracy of 98.3% compared to all others.
 * Logistic Regression ranks the second best.
 * Important features are Gravity accelerometer signal mag area, energy and min. The analysis identified the most important features for accurately predicting human activities, by considering accelerometer data, gyroscope data and time-related features. 
 * These features provide valuable insights into the movements and patterns of human activities, such as walking, running and sitting.
