@@ -41,7 +41,7 @@ To set up your local environment and get started with the project, you need to f
 3. Clone the project repository using Git or download the project files directly from the repository.
 
 4. Install the required dependencies by running the following commands in your command prompt or terminal window:
-`pip install numpy pandas matplotlib seaborn sklearn scipy plotly`
+`pip install numpy pandas matplotlib seaborn sklearn ploty.express`
 
 5. Once the dependencies are installed, you can open the Jupyter Notebook file containing the project code and run the code cells to execute the project.
 
